@@ -1,5 +1,5 @@
 
-/* This Code is part of the bachelor thesis of Caspar Briner (14-937-650)
+/* This Code is part of the bachelor thesis of Caspar Briner 
  It is coded for an Arduino NANO. 
 
  Things it does:
